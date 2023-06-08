@@ -10,7 +10,7 @@ function App() {
       <Header />
       <Routes>
           <Route path="/" index element={<Content />} />
-          <Route path="/ss-games/" element={<Content />} />
+          <Route path="/ss-games" element={<Content />} />
           <Route path="/:game" element={<GameInfo />} />
       </Routes>
     </div>
