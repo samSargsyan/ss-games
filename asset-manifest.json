@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/ss-games/static/css/main.96966ff8.css",
+    "main.js": "/ss-games/static/js/main.f852b786.js",
+    "static/js/787.fea81481.chunk.js": "/ss-games/static/js/787.fea81481.chunk.js",
+    "static/media/doodle-gif.gif": "/ss-games/static/media/doodle-gif.7ca1f63af1a2536ba0a5.gif",
+    "static/media/fruit.gif": "/ss-games/static/media/fruit.260f8f5a006be3a4c3d4.gif",
+    "static/media/millionaire.gif": "/ss-games/static/media/millionaire.a08fa141eeb9f7cbc99e.gif",
+    "static/media/fruitNinja.png": "/ss-games/static/media/fruitNinja.4f9bf9d476b7292d758c.png",
+    "static/media/whoMillionare.jpg": "/ss-games/static/media/whoMillionare.5b812df4649ac12195c0.jpg",
+    "static/media/pacman.gif": "/ss-games/static/media/pacman.a7a8bda9ab0d116d12fd.gif",
+    "static/media/doodleJump.jpg": "/ss-games/static/media/doodleJump.50eb3b44ad8ad325e19a.jpg",
+    "static/media/arkanoid.jpg": "/ss-games/static/media/arkanoid.84b50e16fe5a554ab4fe.jpg",
+    "static/media/ezgif.com-gif-maker.gif": "/ss-games/static/media/ezgif.com-gif-maker.8cb241e6716c6eb9bacb.gif",
+    "static/media/duckGame.jpg": "/ss-games/static/media/duckGame.6efae3a7cf04ac9464d1.jpg",
+    "static/media/arkanoid.gif": "/ss-games/static/media/arkanoid.a710669b56c24f489b4f.gif",
+    "static/media/pacman.jpg": "/ss-games/static/media/pacman.4441150db677fd171356.jpg",
+    "index.html": "/ss-games/index.html",
+    "main.96966ff8.css.map": "/ss-games/static/css/main.96966ff8.css.map",
+    "main.f852b786.js.map": "/ss-games/static/js/main.f852b786.js.map",
+    "787.fea81481.chunk.js.map": "/ss-games/static/js/787.fea81481.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96966ff8.css",
+    "static/js/main.f852b786.js"
+  ]
+}
