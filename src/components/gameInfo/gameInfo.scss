@@ -1,0 +1,30 @@
+.gameInfo{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    gap: 100px;
+    margin-bottom: 100px;
+}
+
+.gameDescription{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 400px;
+}
+
+.gamePart{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.gameImage{
+    background-size: cover;
+    width: 400px;
+    height: 400px;
+}
+.embed{
+    width: 100%;
+}
