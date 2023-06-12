@@ -10,6 +10,8 @@ import millionareGif from './assets/images/millionaire.gif';
 import pacmanGIF from './assets/images/pacman.gif';
 import fruitGIF from './assets/images/fruit.gif';
 import arkanoidGIF from './assets/images/arkanoid.gif';
+import flappy from './assets/images/flappyBird.jpg';
+import flappyGIF from './assets/images/flappyGif.gif';
 
 
 const data = [
@@ -60,6 +62,14 @@ const data = [
         category: "Puzzle",
         link: <iframe src="https://scratch.mit.edu/projects/638231412/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
         gif: pacmanGIF,
+    },
+    {
+        image: flappy,
+        title:"Flappy Bird",
+        desc: "Challenge yourself and see how long you can make Flappy survive!",
+        category: "Adventure",
+        link: <iframe src="https://scratch.mit.edu/projects/864146404/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>,
+        gif: flappyGIF,
     },
 ]
 
