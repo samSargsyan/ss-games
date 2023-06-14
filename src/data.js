@@ -68,7 +68,7 @@ const data = [
         title:"Flappy Bird",
         desc: "Challenge yourself and see how long you can make Flappy survive!",
         category: "Adventure",
-        link: <iframe src="https://scratch.mit.edu/projects/864146404/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>,
+        link: <iframe src="https://scratch.mit.edu/projects/864146404/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
         gif: flappyGIF,
     },
 ]
