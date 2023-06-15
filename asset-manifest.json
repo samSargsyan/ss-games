@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ss-games/static/css/main.19dbf06b.css",
-    "main.js": "/ss-games/static/js/main.0fcafcd6.js",
+    "main.js": "/ss-games/static/js/main.1b1070be.js",
     "static/js/787.fea81481.chunk.js": "/ss-games/static/js/787.fea81481.chunk.js",
     "static/media/doodle-gif.gif": "/ss-games/static/media/doodle-gif.7ca1f63af1a2536ba0a5.gif",
     "static/media/fruit.gif": "/ss-games/static/media/fruit.260f8f5a006be3a4c3d4.gif",
@@ -19,11 +19,11 @@
     "static/media/flappyBird.jpg": "/ss-games/static/media/flappyBird.5e48b3c80310cf0193bf.jpg",
     "index.html": "/ss-games/index.html",
     "main.19dbf06b.css.map": "/ss-games/static/css/main.19dbf06b.css.map",
-    "main.0fcafcd6.js.map": "/ss-games/static/js/main.0fcafcd6.js.map",
+    "main.1b1070be.js.map": "/ss-games/static/js/main.1b1070be.js.map",
     "787.fea81481.chunk.js.map": "/ss-games/static/js/787.fea81481.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19dbf06b.css",
-    "static/js/main.0fcafcd6.js"
+    "static/js/main.1b1070be.js"
   ]
 }
