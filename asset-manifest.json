@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/ss-games/static/css/main.19dbf06b.css",
-    "main.js": "/ss-games/static/js/main.1b1070be.js",
+    "main.css": "/ss-games/static/css/main.54b1c87e.css",
+    "main.js": "/ss-games/static/js/main.0b0ad9dc.js",
     "static/js/787.fea81481.chunk.js": "/ss-games/static/js/787.fea81481.chunk.js",
     "static/media/doodle-gif.gif": "/ss-games/static/media/doodle-gif.7ca1f63af1a2536ba0a5.gif",
     "static/media/fruit.gif": "/ss-games/static/media/fruit.260f8f5a006be3a4c3d4.gif",
     "static/media/millionaire.gif": "/ss-games/static/media/millionaire.a08fa141eeb9f7cbc99e.gif",
+    "static/media/mario.png": "/ss-games/static/media/mario.ded70dba1344a4e3d848.png",
     "static/media/fruitNinja.png": "/ss-games/static/media/fruitNinja.4f9bf9d476b7292d758c.png",
     "static/media/whoMillionare.jpg": "/ss-games/static/media/whoMillionare.5b812df4649ac12195c0.jpg",
     "static/media/flappyGif.gif": "/ss-games/static/media/flappyGif.6d2c9be798e83f74bce3.gif",
+    "static/media/Minecraft.png": "/ss-games/static/media/Minecraft.de28de07c1e8a4c21ecf.png",
+    "static/media/ninja.jpg": "/ss-games/static/media/ninja.07e56814191c2f8f290c.jpg",
     "static/media/pacman.gif": "/ss-games/static/media/pacman.a7a8bda9ab0d116d12fd.gif",
     "static/media/doodleJump.jpg": "/ss-games/static/media/doodleJump.50eb3b44ad8ad325e19a.jpg",
+    "static/media/sam.jpg": "/ss-games/static/media/sam.b0e6f83d1022f7c4108b.jpg",
     "static/media/arkanoid.jpg": "/ss-games/static/media/arkanoid.84b50e16fe5a554ab4fe.jpg",
     "static/media/ezgif.com-gif-maker.gif": "/ss-games/static/media/ezgif.com-gif-maker.8cb241e6716c6eb9bacb.gif",
     "static/media/duckGame.jpg": "/ss-games/static/media/duckGame.6efae3a7cf04ac9464d1.jpg",
@@ -18,12 +22,12 @@
     "static/media/pacman.jpg": "/ss-games/static/media/pacman.4441150db677fd171356.jpg",
     "static/media/flappyBird.jpg": "/ss-games/static/media/flappyBird.5e48b3c80310cf0193bf.jpg",
     "index.html": "/ss-games/index.html",
-    "main.19dbf06b.css.map": "/ss-games/static/css/main.19dbf06b.css.map",
-    "main.1b1070be.js.map": "/ss-games/static/js/main.1b1070be.js.map",
+    "main.54b1c87e.css.map": "/ss-games/static/css/main.54b1c87e.css.map",
+    "main.0b0ad9dc.js.map": "/ss-games/static/js/main.0b0ad9dc.js.map",
     "787.fea81481.chunk.js.map": "/ss-games/static/js/787.fea81481.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.19dbf06b.css",
-    "static/js/main.1b1070be.js"
+    "static/css/main.54b1c87e.css",
+    "static/js/main.0b0ad9dc.js"
   ]
 }
