@@ -5,9 +5,7 @@ import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 
 const Header = ({setSearch}) => {
-
     const [waitSend,setWaitSend] = useState('');
-
     useEffect(()=>{
         let t = setTimeout(()=>{
             setSearch(waitSend);
@@ -26,10 +24,17 @@ const Header = ({setSearch}) => {
                 <img src={searchIcon} alt="search"/>
                 <input type="text" onChange={(e)=>setWaitSend(e.target.value)}/>
             </div>
-            <div>
-                <span>Menu 1</span>
-                <span>Menu 2</span>
-                <span>Menu 3</span>
+            <div className='menus'>
+                <Link to={`/ss-games`}>
+                    <span>Home</span>
+                </Link>
+                <Link to={`/about`}>
+                    <span>About</span>
+                </Link>
+                <Link to={`/other`}>
+                    <span>Other Games</span>
+                </Link>
+           
             </div>
         </div>
     )

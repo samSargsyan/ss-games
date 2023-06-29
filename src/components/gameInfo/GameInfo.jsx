@@ -1,13 +1,15 @@
 import "./gameInfo.scss";
 import { useParams } from 'react-router-dom';
 import data from "../../data";
+import otherData from "../../otherData";
 
 const GameInfo = () => {
     const params = useParams();
+    const gameData = params.other === 'other' ? otherData : data;
     
     return(
         <div className="gameInfo">
-            {data.filter((game)=>{
+            {gameData.filter((game)=>{
                 return game.title == params.game;
             })
             .map((game)=>{

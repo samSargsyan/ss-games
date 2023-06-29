@@ -22,6 +22,7 @@ const data = [
         category: "Adventure",
         link: <iframe src="https://scratch.mit.edu/projects/528541047/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
         gif: duckGif,
+        other: false,
     },
     {
         image: doodle,
@@ -29,6 +30,7 @@ const data = [
         desc: "Doodle Jump, try getting as high as possible surpassing different obstacles and all.",
         category: "Platform game",
         link: <iframe src="https://scratch.mit.edu/projects/627622909/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
+        other: false,
         gif: dooleGif,
     },
     {
@@ -37,6 +39,7 @@ const data = [
         desc: "Try getting as much as points as you can with this prediction game!",
         category: "Arcade",
         link: <iframe src="https://scratch.mit.edu/projects/624477981/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
+        other: false,
         gif: arkanoidGIF,
     },
     {
@@ -45,7 +48,8 @@ const data = [
         desc: "Show your amazing ninja slicing skills and score as high as possible and dont explode!",
         category: "Arcade",
         link: <iframe src="https://scratch.mit.edu/projects/623978461/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
-        gif: fruitGIF
+        other: false,
+        gif: fruitGIF,
     },
     {
         image: millionare,
@@ -53,6 +57,7 @@ const data = [
         desc: "Do you have the mind to beat all the questions and win yourself a prize of 1M Dollars?",
         category: "Intellectual",
         link: <iframe src="https://scratch.mit.edu/projects/611418579/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
+        other: false,
         gif: millionareGif,
     },
     {
@@ -61,6 +66,7 @@ const data = [
         desc: "Do you have what it takes to outrun the ghosts and beat the game by eating all points?",
         category: "Puzzle",
         link: <iframe src="https://scratch.mit.edu/projects/638231412/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
+        other: false,
         gif: pacmanGIF,
     },
     {
@@ -69,6 +75,7 @@ const data = [
         desc: "Challenge yourself and see how long you can make Flappy survive!",
         category: "Adventure",
         link: <iframe src="https://scratch.mit.edu/projects/864146404/embed" allowtransparency="true" width="80%" height="600px" frameborder="0" scrolling="no" allowfullscreen></iframe>,
+        other: false,
         gif: flappyGIF,
     },
 ]
