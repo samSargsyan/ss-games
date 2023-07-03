@@ -3,10 +3,10 @@ import { useParams } from 'react-router-dom';
 import data from "../../data";
 import otherData from "../../otherData";
 
-const GameInfo = () => {
+const GameInfo = ({setIsShowSearch}) => {
     const params = useParams();
     const gameData = params.other === 'other' ? otherData : data;
-    
+    setIsShowSearch(false);
     return(
         <div className="gameInfo">
             {gameData.filter((game)=>{

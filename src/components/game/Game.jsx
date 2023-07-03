@@ -15,7 +15,7 @@ const Game = ({gif,image,title,category,other}) => {
     return(
         <Link to={`/${title}/${other ? 'other' : ''}`}>
             <div className="game">
-                <div style={{backgroundImage: `url("${isHover ? gif : image}"`}} className="gameImage" 
+                <div style={{backgroundImage: `url("${gif && isHover ? gif : image}"`}} className="gameImage" 
                     onMouseEnter={hoverDelay} 
                     onMouseLeave={() => {setIsHover(false);clearTimeout(timer)}}>
                 </div>

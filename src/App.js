@@ -10,14 +10,15 @@ import Other from './components/other/Other';
 function App() {
 
   const [search,setSearch] = useState('');
+  const [isShowSearch, setIsShowSearch] = useState(true);
 
   return (
     <div className="App">
-      <Header setSearch={setSearch} />
+      <Header setSearch={setSearch} isShowSearch={isShowSearch} setIsShowSearch={setIsShowSearch} />
       <Routes>
           <Route path="/ss-games" index element={<Content search={search} />} />
-          <Route path="/:game" element={<GameInfo />} />
-          <Route path="/:game/:other" element={<GameInfo />} />
+          <Route path="/:game" element={<GameInfo  setIsShowSearch={setIsShowSearch} />} />
+          <Route path="/:game/:other" element={<GameInfo  setIsShowSearch={setIsShowSearch}/>} />
           <Route path="/about" element={<About />} />
           <Route path="/other" element={<Other search={search} />} />
       </Routes>

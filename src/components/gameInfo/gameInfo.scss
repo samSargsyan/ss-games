@@ -28,3 +28,30 @@
 .embed{
     width: 100%;
 }
+@media screen and (max-width: 576px) {
+    .gameInfo{
+        margin-bottom: 0;
+        padding-bottom: 100px;
+    }
+    .gamePart {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-top: 20px;
+        flex-direction: column;
+    }
+    .gameImage{
+        background-size: cover;
+        width: 80%;
+        height: 250px;
+    }
+    .gameDescription{
+        height: 200px;
+        padding: 20px;
+    }
+    .embed{
+        iframe{
+            height: 300px;
+        }
+    }
+}
