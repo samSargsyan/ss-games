@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ss-games/static/css/main.128ae894.css",
-    "main.js": "/ss-games/static/js/main.ff795d7d.js",
+    "main.css": "/ss-games/static/css/main.039df240.css",
+    "main.js": "/ss-games/static/js/main.1f722c08.js",
     "static/js/787.fea81481.chunk.js": "/ss-games/static/js/787.fea81481.chunk.js",
     "static/media/doodle-gif.gif": "/ss-games/static/media/doodle-gif.7ca1f63af1a2536ba0a5.gif",
     "static/media/fruit.gif": "/ss-games/static/media/fruit.260f8f5a006be3a4c3d4.gif",
@@ -22,12 +22,12 @@
     "static/media/pacman.jpg": "/ss-games/static/media/pacman.4441150db677fd171356.jpg",
     "static/media/flappyBird.jpg": "/ss-games/static/media/flappyBird.5e48b3c80310cf0193bf.jpg",
     "index.html": "/ss-games/index.html",
-    "main.128ae894.css.map": "/ss-games/static/css/main.128ae894.css.map",
-    "main.ff795d7d.js.map": "/ss-games/static/js/main.ff795d7d.js.map",
+    "main.039df240.css.map": "/ss-games/static/css/main.039df240.css.map",
+    "main.1f722c08.js.map": "/ss-games/static/js/main.1f722c08.js.map",
     "787.fea81481.chunk.js.map": "/ss-games/static/js/787.fea81481.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.128ae894.css",
-    "static/js/main.ff795d7d.js"
+    "static/css/main.039df240.css",
+    "static/js/main.1f722c08.js"
   ]
 }
