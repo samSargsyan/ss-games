@@ -11,10 +11,11 @@ function App() {
 
   const [search,setSearch] = useState('');
   const [isShowSearch, setIsShowSearch] = useState(true);
+  const [isChecked, setIsChecked] = useState(false);
 
   return (
-    <div className="App">
-      <Header setSearch={setSearch} isShowSearch={isShowSearch} setIsShowSearch={setIsShowSearch} />
+    <div className="App" >
+      <Header setSearch={setSearch} isShowSearch={isShowSearch} setIsShowSearch={setIsShowSearch} isChecked={isChecked} setIsChecked={setIsChecked} />
       <Routes>
           <Route path="/ss-games" index element={<Content search={search} />} />
           <Route path="/:game" element={<GameInfo  setIsShowSearch={setIsShowSearch} />} />

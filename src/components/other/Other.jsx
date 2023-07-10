@@ -18,8 +18,8 @@ const Other = ({search}) => {
                     </div>
                 :
                     filtered
-                    .map((item)=>{
-                        return <Game gif={item.gif} image={item.image} title={item.title} category={item.category} other={item.other} />
+                    .map((item,i)=>{
+                        return <Game key={`${item.title}_${i}`} gif={item.gif} image={item.image} title={item.title} category={item.category} other={item.other} />
                     })
             }
         </div>
